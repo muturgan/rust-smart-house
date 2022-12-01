@@ -1,3 +1,1 @@
-cargo fmt -- --check
-cargo clippy --all --all-features --tests -- -D warnings
 cargo build
